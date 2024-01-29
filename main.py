@@ -74,4 +74,4 @@ def update_graph(selected_x, selected_y, selected_range):
 
 # Rodar o aplicativo
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(debug=False)
